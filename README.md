@@ -16,7 +16,7 @@ despues debemos posicionar las rendijas de tal forma que el laser pueda a puntar
 ya teniendo todo el sistema ponemos a funcionar el laser y observamos el patron que se va a generar cuando los fotones de luz del lazer cruzen una rendija a la vez o ¿ ambas rendijas ?
 
 ![montaje](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/sistema.jpeg)
-![montaje2](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/sistema%202.jpeg)
+![montaje2](https://github.com/Daniel19902/Doble_Rendija/blob/master/Video%20doble%20rendija/Video%20doble%20rendija.mp4)
 
 ahora podemos ver el patron y podemos intuir que el patron que se formo es algo inusual 
 
