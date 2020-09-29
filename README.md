@@ -6,7 +6,7 @@ para el mundo cuantico que haun en dia no tiene explicacion.
 
 ## Construccion
 
-Para esto debemos formar primero el montaje o el sistema con un laser y las rentijas ** papel aluminio con dos cortes paralelos **
+Para esto debemos formar primero el montaje o el sistema con un laser y las rentijas **papel aluminio con dos cortes paralelos**
 
 ![rendijas](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/rendijas.jpeg)
 
