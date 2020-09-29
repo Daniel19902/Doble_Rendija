@@ -60,13 +60,13 @@ de las ondas es generado por una sola honda y como la onda si puede atravesar la
 la particual tambien pasa por las dos rendijas es decir la supersicion hace que pueda pasar por una rendija y simultaneamente por la otra rendija y asi se genere el patron de interferencia del experimento
 de la doble rendija.
 
-![fin2]()
+![fin2](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/fin%202.png)
 
  
 
 ## Forma matematica de ver la doble rendija
 
-![mrendija]()
+![blancos](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/blancos.PNG)
 
 
 Esto nos muestra la probalidad de entontrar la particula en diferentes posiciones como si las lineas fueran blancos y en
@@ -74,25 +74,30 @@ este caso son 5, esto nos diria que probabilidad hay que la particula entre a un
 al hacer dos click podemos ver que hay mas probabilidades de encontrar la particula en el blanco 5 y en los otros  blancos
 la mismo probablidad.
 
-![mrendija]()
+![mrendija](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/mrndija.jpg)
 
 representacion del sistema de la doble rendija
 
-![grafo1]()
+![grafo1](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/grafo%201.PNG)
 
 matriz del grafo mostrado anterior mente
 
-![grafo2]()
+![grafo2](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/grafo%202.PNG)
 
 como podemos ver este grafo nos nuestra la probabilidad que tiene la particula de en la posicion 0 a cada uno de los 5 blancos
 
 
 
 ## Referencias
-Quantum_Computing_for_Computer_Scientists by Noson S. Yanofsky and Micro A. Mannucci 
+Quantum_Computing_for_Computer_Scientists by Noson S. Yanofsky and Micro A. Mannucci
+
 https://www.youtube.com/watch?v=Y9ScxCemsPM&t=1s
+
 https://www.youtube.com/watch?v=dNTN4BTHIVY&t=337s
+
 https://www.instructables.com/id/How-To-Make-a-Simple-Double-Slit/
+
 https://en.wikipedia.org/wiki/Double-slit_experiment
+
 https://en.wikipedia.org/wiki/Wave_interference
 
