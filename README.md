@@ -4,7 +4,6 @@ El experimento de la doble rendija consiste en como un foton o un atomo
 al mandarse muchas veses este realizara un patron vastante extraño y confuso 
 para el mundo cuantico que haun en dia no tiene explicacion.
 
-<<<<<<< HEAD
 ## Construccion
 
 Para esto debemos formar primero el montaje o el sistema con un laser y las rentijas ** papel aluminio con dos cortes paralelos **
@@ -13,38 +12,38 @@ Para esto debemos formar primero el montaje o el sistema con un laser y las rent
 
 despues debemos posicionar las rendijas de tal forma que el laser pueda a puntar a la doble rendija
 
-![sitema]()
+![sitema](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/montaje.jpeg)
 
 ya teniendo todo el sistema ponemos a funcionar el laser y observamos el patron que se va a generar cuando los fotones de luz del lazer cruzen una rendija a la vez o ¿ ambas rendijas ?
 
-![montaje]()
-![montaje2]()
+![montaje](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/sistema.jpeg)
+![montaje2](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/sistema%202.jpeg)
 
 ahora podemos observar el patron y podemos observar que el patron que se formo es algo inusual a lo experado
 
-![patron]()
+![patron](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/patron.jpeg)
 
 
 ## Explicacion
 
-![patron]()
+![patron](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/patron.jpeg)
 
 
 Primero para entender ese fenomeno nos centraremos en que pasa con una sola ranura
 
-![una]()
+![una](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/una.PNG)
 
 como bien se ve en la foto se observa que solo hay una linea algo bastante normal, el foton que pasa por la ranura describe este patron
 
-![dos]()
+![dos](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/dos.PNG)
 
 y lo mismo pero con la otra rendija el mismo patron que el anterior solo que este esta al lado izquierdo, pero que psaria si se suman estas dos rendijas 
 
-![ambas]()
+![ambas](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/ambas.PNG)
 
 Al hacer este experimento uno esperaria que se pueda visualizar dos lineas paralelas como se pudo observar anteriosmente 
 
-![experimento]()
+![experimento](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/ambas.PNG)
 
 pero este no fue el caso, se observa que hay mas de dos lineas paralelas. Ahora bien como se llamaria este fenomeno y como se explicaria.
 
@@ -65,13 +64,3 @@ de la doble rendija.
 
 
 
-
-
-
-
-
-=======
-Para esto debemos formar primero el montaje o el sistema con un laser las rentijas **papel aluminio con dos cortes paralelos**
->>>>>>> dcb5cb32408cb4cd7ac81f9f22a9c7b47a353691
-
-![](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/rendijas.jpeg)
