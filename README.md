@@ -91,13 +91,13 @@ como podemos ver este grafo nos nuestra la probabilidad que tiene la particula d
 ## Referencias
 Quantum_Computing_for_Computer_Scientists by Noson S. Yanofsky and Micro A. Mannucci
 
-[Este Experimento te Dejará LOCO La Doble Rendija] https://www.youtube.com/watch?v=Y9ScxCemsPM&t=1s
+[Este Experimento te Dejará LOCO La Doble Rendija](https://www.youtube.com/watch?v=Y9ScxCemsPM&t=1s)
 
-[MUNDOS PARALELOS ¿Quién eres en el MULTIVERSO?] https://www.youtube.com/watch?v=dNTN4BTHIVY&t=337s
+[MUNDOS PARALELOS ¿Quién eres en el MULTIVERSO?](https://www.youtube.com/watch?v=dNTN4BTHIVY&t=337s)
 
-[How to Make a Simple Double-Slit] https://www.instructables.com/id/How-To-Make-a-Simple-Double-Slit/
+[How to Make a Simple Double-Slit](https://www.instructables.com/id/How-To-Make-a-Simple-Double-Slit/)
 
-[Double-slit experiment] https://en.wikipedia.org/wiki/Double-slit_experiment
+[Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 
-[Wave interference]https://en.wikipedia.org/wiki/Wave_interference
+[Wave interference](https://en.wikipedia.org/wiki/Wave_interference)
 
