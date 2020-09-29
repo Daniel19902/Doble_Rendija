@@ -3,8 +3,6 @@ from fractions import Fraction
 def drill3_2__2(splits, blancos, Psplits, Pblancos):
     b = n_splits(splits,blancos,Psplits,Pblancos)
     c = multiplicar_matrices(b, b)
-    for y in range(len(c)):
-        print(c[y])
 
     return c
 
