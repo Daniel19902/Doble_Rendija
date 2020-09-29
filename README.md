@@ -26,7 +26,7 @@ ahora podemos observar el patron y podemos observar que el patron que se formo e
 
 ## Explicacion
 
-![patron](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/patron.jpeg)
+![patron](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/fin.png)
 
 
 Primero para entender ese fenomeno nos centraremos en que pasa con una sola ranura
@@ -60,9 +60,39 @@ de las ondas es generado por una sola honda y como la onda si puede atravesar la
 la particual tambien pasa por las dos rendijas es decir la supersicion hace que pueda pasar por una rendija y simultaneamente por la otra rendija y asi se genere el patron de interferencia del experimento
 de la doble rendija.
 
-![fin](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/fin.png)
+![fin2]()
 
  
 
+## Forma matematica de ver la doble rendija
 
+![mrendija]()
+
+
+Esto nos muestra la probalidad de entontrar la particula en diferentes posiciones como si las lineas fueran blancos y en
+este caso son 5, esto nos diria que probabilidad hay que la particula entre a una rendija y valla a un determinado blanco. 
+al hacer dos click podemos ver que hay mas probabilidades de encontrar la particula en el blanco 5 y en los otros  blancos
+la mismo probablidad.
+
+![mrendija]()
+
+representacion del sistema de la doble rendija
+
+![grafo1]()
+
+matriz del grafo mostrado anterior mente
+
+![grafo2]()
+
+como podemos ver este grafo nos nuestra la probabilidad que tiene la particula de en la posicion 0 a cada uno de los 5 blancos
+
+
+
+## Referencias
+Quantum_Computing_for_Computer_Scientists by Noson S. Yanofsky and Micro A. Mannucci 
+https://www.youtube.com/watch?v=Y9ScxCemsPM&t=1s
+https://www.youtube.com/watch?v=dNTN4BTHIVY&t=337s
+https://www.instructables.com/id/How-To-Make-a-Simple-Double-Slit/
+https://en.wikipedia.org/wiki/Double-slit_experiment
+https://en.wikipedia.org/wiki/Wave_interference
 
