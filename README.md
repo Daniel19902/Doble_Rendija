@@ -4,6 +4,7 @@ El experimento de la doble rendija consiste en como un foton o un atomo
 al mandarse muchas veses este realizara un patron vastante extraño y confuso 
 para el mundo cuantico que haun en dia no tiene explicacion.
 
+<<<<<<< HEAD
 ## Construccion
 
 Para esto debemos formar primero el montaje o el sistema con un laser y las rentijas ** papel aluminio con dos cortes paralelos **
@@ -69,4 +70,8 @@ de la doble rendija.
 
 
 
+=======
+Para esto debemos formar primero el montaje o el sistema con un laser las rentijas **papel aluminio con dos cortes paralelos**
+>>>>>>> dcb5cb32408cb4cd7ac81f9f22a9c7b47a353691
 
+![](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/rendijas.jpeg)
