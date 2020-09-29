@@ -39,7 +39,7 @@ como bien se ve en la foto se observa que solo hay una linea algo bastante norma
 
 y lo mismo pero con la otra rendija el mismo patron que el anterior solo que este esta al lado izquierdo, pero que psaria si se suman estas dos rendijas 
 
-![ambas](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/ambas.PNG)
+![ambas](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/doble%20rendija%20particula.png)
 
 Al hacer este experimento uno esperaria que se pueda visualizar dos lineas paralelas como se pudo observar anteriosmente 
 
@@ -52,13 +52,15 @@ pero en otro universo por ejemplo en nuestro experimento la particula pasaria po
 Ahora bien esto no explica por que describe este patron, pero sabemos como se describe este patron ?. este patron se describe varias ondas se chocan generando un patron
 de interferencia.
 
-![interferencia]()
+![interferencia](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/ondas.jpg)
 
 
 Ahara sabemos que nuestro experimento genera un patron de interferencia lo que hace que se generen mas de dos lineas paraleslas en nuestro experimento, pero el patron de interferencia
 de las ondas es generado por una sola honda y como la onda si puede atravesar las dos rendijas al mismo tiempo por que la onda se extiende por el espacio lo que nos hace decir que
 la particual tambien pasa por las dos rendijas es decir la supersicion hace que pueda pasar por una rendija y simultaneamente por la otra rendija y asi se genere el patron de interferencia del experimento
 de la doble rendija.
+
+![fin](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/fin.png)
 
  
 
