@@ -19,7 +19,7 @@ ya teniendo todo el sistema ponemos a funcionar el laser y observamos el patron 
 ![montaje](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/sistema.jpeg)
 ![montaje2](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/sistema%202.jpeg)
 
-ahora podemos observar el patron y podemos observar que el patron que se formo es algo inusual a lo experado
+ahora podemos ver el patron y podemos intuir que el patron que se formo es algo inusual 
 
 ![patron](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/patron.jpeg)
 
@@ -41,7 +41,7 @@ y lo mismo pero con la otra rendija el mismo patron que el anterior solo que est
 
 ![ambas](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/doble%20rendija%20particula.png)
 
-Al hacer este experimento uno esperaria que se pueda visualizar dos lineas paralelas como se pudo observar anteriosmente 
+Al hacer este experimento uno esperaria que se pueda visualizar dos lineas paralelas como se pudo observar anteriormente 
 
 ![experimento](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/ambas.PNG)
 
@@ -49,7 +49,7 @@ pero este no fue el caso, se observa que hay mas de dos lineas paralelas. Ahora 
 
 A esto se le llama **superposicion**, la superposicion es la probabilidad de que una particula este en dos lugares al mismo tiempo como si estuviera realizando la misma accion
 pero en otro universo por ejemplo en nuestro experimento la particula pasaria por las dos rendijas al mismo tiempo.
-Ahora bien esto no explica por que describe este patron, pero sabemos como se describe este patron ?. este patron se describe varias ondas se chocan generando un patron
+Ahora bien sabemos que significa este patron?. este patron se describe cuando varias ondas se chocan generando un patron
 de interferencia.
 
 ![interferencia](https://github.com/Daniel19902/Doble_Rendija/blob/master/img/ondas.jpg)
@@ -91,13 +91,13 @@ como podemos ver este grafo nos nuestra la probabilidad que tiene la particula d
 ## Referencias
 Quantum_Computing_for_Computer_Scientists by Noson S. Yanofsky and Micro A. Mannucci
 
-https://www.youtube.com/watch?v=Y9ScxCemsPM&t=1s
+[Este Experimento te Dejará LOCO La Doble Rendija] https://www.youtube.com/watch?v=Y9ScxCemsPM&t=1s
 
-https://www.youtube.com/watch?v=dNTN4BTHIVY&t=337s
+[MUNDOS PARALELOS ¿Quién eres en el MULTIVERSO?] https://www.youtube.com/watch?v=dNTN4BTHIVY&t=337s
 
-https://www.instructables.com/id/How-To-Make-a-Simple-Double-Slit/
+[How to Make a Simple Double-Slit] https://www.instructables.com/id/How-To-Make-a-Simple-Double-Slit/
 
-https://en.wikipedia.org/wiki/Double-slit_experiment
+[Double-slit experiment] https://en.wikipedia.org/wiki/Double-slit_experiment
 
-https://en.wikipedia.org/wiki/Wave_interference
+[Wave interference]https://en.wikipedia.org/wiki/Wave_interference
 
